@@ -1,6 +1,6 @@
 {
   "name": "node-exporter",
-  "description": "A simple exporter module, that allows to export json data to various file formats.",
+  "description": "A simple node exporter to export json to json, csv or xml file.",
   "version": "0.0.1",
   "author": {
     "name": "Daniel Eissing",
