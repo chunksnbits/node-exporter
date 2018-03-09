@@ -1,3 +1,8 @@
+#### *DEPRECATED (This plugin is no longer maintained*
+#### Archive:
+
+---
+
 # node-exporter v.0.1.0
 
 A simple node exporter to export json to json, csv or xml file.
